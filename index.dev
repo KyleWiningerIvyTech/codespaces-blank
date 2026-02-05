@@ -4,3 +4,6 @@
     <strong>This is where the main heading goes for Sly Website</strong>
 }
 
+.col-6 {
+    width: calc(7/12 * 100%)
+}
